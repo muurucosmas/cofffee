@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "type": "Espressoeroro5555",
+      "price": 10,
+      "description": "Strong black coffee",
+      "origin": "Ethiopia"
+    },
+    {
+      "id": "3",
+      "type": "Cappuccino",
+      "price": 12,
+      "description": "Foamy milk coffee",
+      "origin": "Italy"
+    },
+    {
+      "id": "4",
+      "type": "Americano",
+      "price": 11,
+      "description": "Espresso with hot water",
+      "origin": "USA"
+    },
+    {
+      "id": "5",
+      "type": "Mocha",
+      "price": 16,
+      "description": "Chocolate flavored coffee",
+      "origin": "Yemen"
+    },
+    {
+      "id": "6",
+      "type": "Flat White",
+      "price": 14,
+      "description": "Smooth milk espresso",
+      "origin": "Australia"
+    },
+    {
+      "id": "7",
+      "type": "Macchiato",
+      "price": 13,
+      "description": "Espresso with milk foam",
+      "origin": "Italy"
+    },
+    {
+      "id": "8",
+      "type": "Ristretto",
+      "price": 10,
+      "description": "Short strong espresso",
+      "origin": "Italy"
+    },
+    {
+      "id": "9",
+      "type": "Cold Brew",
+      "price": 17,
+      "description": "Slow brewed cold coffee",
+      "origin": "USA"
+    },
+    {
+      "id": "10",
+      "type": "Iced Latte",
+      "price": 16,
+      "description": "Cold milk coffee",
+      "origin": "France"
+    },
+    {
+      "id": "11",
+      "type": "Turkish Coffee",
+      "price": 12,
+      "description": "Strong unfiltered coffee",
+      "origin": "Turkey"
+    },
+    {
+      "id": "12",
+      "type": "Irish Coffee",
+      "price": 18,
+      "description": "Coffee with whiskey flavor",
+      "origin": "Ireland"
+    },
+    {
+      "id": "13",
+      "type": "Affogato",
+      "price": 19,
+      "description": "Coffee with ice cream",
+      "origin": "Italy"
+    },
+    {
+      "id": "14",
+      "type": "Cortado",
+      "price": 13,
+      "description": "Equal espresso and milk",
+      "origin": "Spain"
+    },
+    {
+      "id": "15",
+      "type": "Doppio",
+      "price": 11,
+      "description": "Double espresso shot",
+      "origin": "Italy"
+    },
+    {
+      "id": "16",
+      "type": "Red Eye",
+      "price": 15,
+      "description": "Coffee with extra espresso shot",
+      "origin": "USA"
+    },
+    {
+      "id": "17",
+      "type": "Nitro Coffee",
+      "price": 20,
+      "description": "Nitrogen infused cold coffee",
+      "origin": "USA"
+    },
+    {
+      "id": "18",
+      "type": "Vienna Coffee",
+      "price": 16,
+      "description": "Coffee with whipped cream",
+      "origin": "Austria"
+    },
+    {
+      "id": "19",
+      "type": "Lungo",
+      "price": 12,
+      "description": "Long espresso shot",
+      "origin": "Italy"
+    },
+    {
+      "id": "20",
+      "type": "Black Coffee",
+      "price": 9,
+      "description": "Simple brewed coffee",
+      "origin": "Kenya"
+    },
+    {
+      "type": "vero",
+      "price": 0,
+      "description": "",
+      "origin": "",
+      "id": "dmWrB4hn-Zw"
+    },
+    {
+      "type": "",
+      "price": 0,
+      "description": "",
+      "origin": "",
+      "id": "mirVkoU_Xr4"
+    },
+    {
+      "type": "",
+      "price": 0,
+      "description": "",
+      "origin": "",
+      "id": "14q7swTGsMA"
+    },
+    {
+      "type": "",
+      "price": 0,
+      "description": "",
+      "origin": "",
+      "id": "_XbKcJP3A5g"
+    }
+  ],
+  "$schema": "./node_modules/json-server/schema.json"
+}
