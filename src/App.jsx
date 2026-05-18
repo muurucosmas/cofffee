@@ -1,9 +1,22 @@
 import React from 'react'
-import Home from './pages/Landing'
+import Home from './pages/Home'
+import ProductForm from './pages/ProductForm'
+import ProductPage from './pages/ProductPage'
+import Dashboard from './pages/Dashboard'
+import { BrowserRouter, Route, Routes } from 'react-router-dom'
+import NavBar from './components/NavBar'
 export default function App() {
   return (
-    <div>
-     <Home />
-    </div>
+   <BrowserRouter>
+   <NavBar />
+   
+   <Routes>
+   <Route path='/' element={<Home />}/>
+   <Route path='/product/:id' element={<ProductPage />}/>
+   <Route path='/add-product' element={<ProductForm />}/>
+   <Route path='/dashboard' element={<Dashboard />}/>
+   </Routes>
+   
+   </BrowserRouter>
   )
 }
